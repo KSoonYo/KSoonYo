@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 > 이야기를 좋아하는 개발자
 
 
-![KSoonYo's GitHub stats](https://github-readme-stats-62b7v2ujl-ksoonyo.vercel.app/api?username=KSoonYo&hide=stars&hide_title=true&show_icons=true&bg_color=00000000) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qksksktkdtkd)](https://solved.ac/qksksktkdtkd/)
-
-
 
 ### ⚡ Skills
 #### 📜 Language 
